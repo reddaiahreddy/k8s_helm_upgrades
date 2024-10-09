@@ -1,0 +1,14 @@
+{
+    "name": "backend-service",
+    "version": "1.0.0",
+    "description": "Node.js backend for microservices demo",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.10.9"
+    }
+  }
+  
